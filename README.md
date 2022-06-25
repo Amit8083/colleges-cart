@@ -51,10 +51,10 @@ To get started with this app, follow the instructions below.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/3034saurabhkumar"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47604137?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Saurabh Kumar (Team Leader)</b></sub></a><br /><a href="https://github.com/atilara" title="Átila's Profile"></a></td>
+    <td align="center"><a href="https://github.com/Amit8083"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82259977?v=4" width="100px;" alt=""/><br /><sub><b>Amit Kumarr (Team Leader)</b></sub></a><br /><a href="https://github.com/Amit8083" title="Amit's Profile"></a></td>
+    <td align="center"><a href="https://github.com/3034saurabhkumar"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47604137?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Saurabh Kuma</b></sub></a><br /><a href="https://github.com/atilara" title="Átila's Profile"></a></td>
     <td align="center"><a href="https://github.com/musharrafiqubal"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64920299?v=4" width="100px;" alt=""/><br /><sub><b>Musharraf Iqubal</b></sub></a><br /><a href="https://github.com/arthursca" title="Arthur's Profile"></a></td>
     <td align="center"><a href="https://github.com/noronha1612"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Md. Firdaush</b></sub></a><br /><a href="https://github.com/noronha1612" title="Gabriel's Profile"></a></td>
-    <td align="center"><a href="https://github.com/Amit8083"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82259977?v=4" width="100px;" alt=""/><br /><sub><b>Amit Kumar</b></sub></a><br /><a href="https://github.com/Amit8083" title="Amit's Profile"></a></td>
   </tr>
 </table>
 
